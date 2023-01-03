@@ -16,3 +16,9 @@
 .small {
   text-align: center;
 }
+
+h4 {
+  color: crimson;
+  font-weight: bold;
+  text-align: center;
+}
