@@ -6,3 +6,13 @@
   background-color: gainsboro;
   box-shadow: 10px 10px 10px gray;
 }
+.form {
+  margin: 50px;
+  padding: 50px;
+  border: 2px solid gray;
+  background-color: gainsboro;
+}
+
+.small {
+  text-align: center;
+}
