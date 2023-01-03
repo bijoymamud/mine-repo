@@ -1,0 +1,8 @@
+.box-1 {
+  border: 5px solid pink;
+  border-radius: 25px;
+  margin: 30px;
+  padding: 20px;
+  background-color: gainsboro;
+  box-shadow: 10px 10px 10px gray;
+}
